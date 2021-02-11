@@ -1,0 +1,14 @@
+.webgl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* Disables the blue outline */
+  outline: none;
+}
+
+/* Hides the overflow scroll when you scroll at 
+the bottom using the trackpad */
+html,
+body {
+  overflow: hidden;
+}
